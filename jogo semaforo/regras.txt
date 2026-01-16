@@ -1,0 +1,16 @@
+
+Descricao do jogo:
+O jogo do Semáforo, originalmente designado por Traffic Lights, foi inventado com o objetivo de fazer um jogo com 4 requisitos,
+sendo estes, a facilidade de perceber o jogo, a rapidez com que se pode jogar uma partida, 
+o facto de os materias necessários para a realização do jogo serem arranjados com grande facilidade e mais importante de tudo,
+ser um jogo fácil de se jogar.
+Apesar da simplicidade do jogo, este pode de qualquer das maneiras apresentar uma dificuldade elevada em certos pontos do jogo e 
+levar a um jogo bem disputado até ao fim.
+
+Regras do jogo:
+1- O jogo inicia-se com o tabuleiro vazio.
+2- Em ca jogada, cada jogador realiza uma das seguintes ações:
+  -Coloca uma peça verde num quadrado vazio;
+  -Substitui uma peça verde por uma peça amarela;
+  -Substitui uma peça amarela por uma peça vermelha.
+
